@@ -449,7 +449,7 @@ namespace chefready1._0.Controllers
             {
                 return Redirect(returnUrl);
             }
-            return RedirectToAction("Index", "Home");
+            return RedirectToAction("Index", "Events");
         }
 
         internal class ChallengeResult : HttpUnauthorizedResult

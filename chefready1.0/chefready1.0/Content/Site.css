@@ -1,9 +1,24 @@
 ﻿body {
     padding-top: 50px;
     padding-bottom: 20px;
-    background: #faf6e8;
-    /*background-image: url('../Images/kitchen1.jpg');*/
+    background: #000000;
+
 }
+.navbar-brand {
+  padding: 0px;
+}
+.navbar-brand>img {
+  height: 100%;
+  padding: 3px;
+  width: auto;
+}
+
+.landing-page {
+    padding-top: 150px;
+}
+
+
+
 
 /* If you want to use an image and change them based on resolution */
 /*@media screen and (min-width: 400px) and (max-width: 1024px) {
@@ -47,5 +62,5 @@ textarea {
 }
 
 .btn-default {
-    background-color: whitesmoke
+    background-color: aliceblue;
 }

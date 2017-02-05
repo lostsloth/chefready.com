@@ -1,9 +1,15 @@
 ﻿@{
     ViewBag.Title = "Landing Page";
 }
-<div class="row">&nbsp;</div>
-<div class="">
-    <h1>Ready, chef? </h1>
-    <p><span class="btn btn-default badge">@Html.ActionLink("Learn more", "About", "Home")</span></p>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-xs-12 glyphicon-align-center">
+            <img src="~/Images/skull_chef_Burlesque.jpg" class="img-rounded img-responsive" />
+        </div>
+    </div>
+    <div class="row landing-page">
+        <p><span class="btn btn-default badge">@Html.ActionLink("Learn more", "About", "Home")</span></p>
+    </div>
+    
 </div>
-@Html.Partial("_LoginPartial")
+<div class="">@Html.Partial("_LoginPartial")</div>

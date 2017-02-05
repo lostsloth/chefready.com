@@ -247,6 +247,9 @@
     <Content Include="Content\bootstrap-theme.css.map" />
     <None Include="Scripts\jquery-3.1.1.intellisense.js" />
     <Content Include="Images\kitchen1.jpg" />
+    <Content Include="Images\skull_chef_Burlesque.jpg" />
+    <Content Include="Images\skull_chef_icon.jpg" />
+    <Content Include="Images\skull_chef_icon_rogue.jpg" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-3.1.1.js" />
