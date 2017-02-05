@@ -199,6 +199,5 @@ C:\Projects\Greg\chefready.com\chefready1.0\chefready1.0\bin\Microsoft.Owin.Secu
 C:\Projects\Greg\chefready.com\chefready1.0\chefready1.0\bin\Microsoft.Owin.Security.Google.xml
 C:\Projects\Greg\chefready.com\chefready1.0\chefready1.0\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Projects\Greg\chefready.com\chefready1.0\chefready1.0\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Projects\Greg\chefready.com\chefready1.0\chefready1.0\obj\Debug\chefready1.0.csprojResolveAssemblyReference.cache
 C:\Projects\Greg\chefready.com\chefready1.0\chefready1.0\obj\Debug\chefready1.0.dll
 C:\Projects\Greg\chefready.com\chefready1.0\chefready1.0\obj\Debug\chefready1.0.pdb
