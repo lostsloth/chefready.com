@@ -1,43 +1,67 @@
 ﻿body {
     padding-top: 50px;
     padding-bottom: 20px;
-    background: #000000;
-    color: #00bfff
-
+    background:whitesmoke;
+    color: #006400;
 }
-.navbar-brand {
-  padding: 0px;
-}
-.navbar-brand>img {
-  height: 100%;
-  padding: 3px;
-  width: auto;
-}
-
-.landing-page {
-    padding-top: 150px;
-}
-
-
-
-
-/* If you want to use an image and change them based on resolution */
-/*@media screen and (min-width: 400px) and (max-width: 1024px) {
-.body {
-    background: #FFFFFF url(../Images/kitchen1.jpg);
-}
-}
-
-
-@media screen and (max-width: 399px) {
-.body {
-    background: #FFFFFF url(../Images/kitchen1.jpg);
-}*/
 
 /* Set padding to keep content from hitting the edges */
 .body-content {
     padding-left: 15px;
     padding-right: 15px;
+}
+
+/* navbar options */
+.navbar-brand {
+  padding: 0px;
+}
+
+.navbar-brand > img {
+    height: 100%;
+    padding-bottom: 3px;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 3px;
+    width: auto;
+}
+
+.navbar-header {
+    background: whitesmoke;
+    border-color: whitesmoke;
+}
+
+.navbar-default {
+    background: whitesmoke;
+    border-color: whitesmoke;
+}
+
+.navbar-toggle {
+    border: 0;
+}
+.navbar-collapse {
+    background: white;
+}
+.landing-page {
+    padding-top: 50px;
+}
+
+/* chef ready custom */
+.cr-title {
+    color: #006400;
+    font-size: 32px;
+    font-weight: bold;
+    position: relative;
+    float: left;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.btn-green {
+    background-color: #006400;
+}
+.color-white {
+    color: white;
 }
 
 /* Override the default bootstrap behavior where horizontal description lists 
@@ -54,14 +78,17 @@ textarea {
     max-width: 280px;
 }
 
-.jumbotron {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  margin-bottom: 30px;
-  color: inherit;
-  background-color:#f0f0f0
+
+
+/* If you want to use an image and change them based on resolution */
+/*@media screen and (min-width: 400px) and (max-width: 1024px) {
+.body {
+    background: #FFFFFF url(../Images/kitchen1.jpg);
+}
 }
 
-.btn-default {
-    background-color: aliceblue;
-}
+
+@media screen and (max-width: 399px) {
+.body {
+    background: #FFFFFF url(../Images/kitchen1.jpg);
+}*/
